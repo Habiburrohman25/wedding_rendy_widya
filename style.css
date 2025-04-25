@@ -127,7 +127,7 @@ body {
 }
 
 .home p {
-  color: #666;
+  color: #fff;
   font-size: 1.1rem;
 }
 
@@ -148,7 +148,7 @@ body {
 
 .home .couple p {
   font-size: 1.4rem;
-  color: var(--pink);
+  color: #fff;
   font-weight: 500;
 }
 
@@ -198,6 +198,7 @@ body {
 }
 
 .info .alamat {
+  color: #fff;
   font-size: 1.2rem;
   font-weight: 600;
   font-size: 500;
@@ -206,13 +207,13 @@ body {
 .info .description {
   font-size: 1.3rem;
   /* font-weight: 300; */
-  color: var(--pink);
+  color: #fff;
 }
 
 .info .card {
-  background-color: rgba(255, 255, 255, 0.4) !important;
-  color: var(--pink) !important;
-  border: 1px solid #999;
+  background-color: rgba(11, 49, 85, 0.8) !important;
+  color: #fff !important;
+  border: 1px solid #ffffff;
 }
 
 .info .card .jam-akad,
@@ -225,7 +226,7 @@ body {
 }
 
 .info .card-header {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #ffffff;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 500;
@@ -238,7 +239,7 @@ body {
 }
 
 .info .card-footer {
-  border-top: 1px solid #999;
+  border-top: 1px solid #ffffff;
   font-size: 1.2rem;
   /* font-weight: 300; */
 }
@@ -260,7 +261,7 @@ body {
 .rsvp p {
   font-size: 1rem;
   font-weight: 600;
-  color: var(--pink);
+  color: #fff;
 }
 
 .rsvp h2,
@@ -291,6 +292,15 @@ body {
   font-size: 0.9rem;
   letter-spacing: 1px;
   display: block;
+} */
+
+.gifts .card{
+  background-color: rgba(11, 49, 85, 0.8) !important;
+  color: #fff !important;
+}
+
+/* .list-group{
+  background-color: rgba(11, 49, 85, 0.8) !important;
 } */
 
 footer {
